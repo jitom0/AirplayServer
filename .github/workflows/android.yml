@@ -25,4 +25,4 @@ jobs:
     - name: ls src file
       run: ls
     - name: Build with Gradle
-      run: ./gradlew build
+      run: ./gradlew build.gradle
